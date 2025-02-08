@@ -67,11 +67,11 @@ window.onload = function() {
     github: null,
     linkedin: null,
     instagram: null,
-    name: null,
-    lastName: null,
-    role: null,
-    country: null,
-    city: null
+    name: "first name",
+    lastName: "last name",
+    role: " ",
+    country: " ",
+    city: " "
   };
   render(window.variables); // render the card for the first time
 
